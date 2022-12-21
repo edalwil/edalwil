@@ -32,11 +32,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center" >
+<p align="center" styles = "padding : 10px">
 <a styles= "margin:100px" href="https://fastidious-arithmetic-f4f500.netlify.app/"><img alt="Website"  src="https://i.ibb.co/fHkkfsR/001-cromo.png"></a>
 <a href="www.linkedin.com/in/ 
 desarrollador-web-edwinw"><img alt="LinkedIn" src="https://i.ibb.co/MhgdCmS/001-linkedin.png"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:edalwil@gmail.com"><img alt="Email" src="https://i.ibb.co/SrdWXyf/001-gmail.png"></a>
 </p>
 
