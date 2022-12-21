@@ -32,9 +32,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://fastidious-arithmetic-f4f500.netlify.app/"><img alt="Website"  src="https://ibb.co/3kpxqkb"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<p align="center" >
+<a styles= "margin:100px" href="https://fastidious-arithmetic-f4f500.netlify.app/"><img alt="Website"  src="https://i.ibb.co/fHkkfsR/001-cromo.png"></a>
+<a href="www.linkedin.com/in/ 
+desarrollador-web-edwinw"><img alt="LinkedIn" src="https://i.ibb.co/MhgdCmS/001-linkedin.png"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
