@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://fastidious-arithmetic-f4f500.netlify.app/"><img style="margin:50px" alt="Website"  src="https://i.ibb.co/fHkkfsR/001-cromo.png"></a>
-<a href="www.linkedin.com/in/desarrollador-web-edwinw" target:_blank>linkiding</a>
+<a href="https://www.linkedin.com/in/desarrollador-web-edwinw" target:"_target"><img alt="LinkedIn" src="https://i.ibb.co/MhgdCmS/001-linkedin.png"></a>
 <a href="mailto:edalwil@gmail.com"><img alt="Email" src="https://i.ibb.co/SrdWXyf/001-gmail.png"></a>
 </p>
 
