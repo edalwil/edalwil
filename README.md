@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+"""js 
+const midudev = {
+    promouns: "he" | "him"
+    code: [javaScript, HTML,CSS]
+    tools : [REACT, NODEJS]
+
+}
+
 <!--
 **edalwil/edalwil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
